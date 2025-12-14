@@ -1,5 +1,6 @@
 # White-Matter-Hyperintensity-Segmentation
 Complete Process of White Matter Hyperintensities (WMH) Segmentation and Quantitative Analysis
+
 Results Display:
 <img width="1205" height="911" alt="1765707632622" src="https://github.com/user-attachments/assets/d7eaf5b8-a3f2-4108-9172-1cc2449f9131" />
 
