@@ -1,4 +1,4 @@
-# White-Matter-Hyperintensity-Segmentation
+# White-Matter-Hyperintensity-Automate Segmentation
 Complete Process of White Matter Hyperintensities (WMH) Segmentation and Quantitative Analysis
 
 Results Display:
